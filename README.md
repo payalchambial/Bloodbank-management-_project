@@ -1,2 +1,2 @@
 # Bloodbank-management-_project
-It is important for donors
+A python based blood bank management system for managing donors , blood groups ,eligibility and  donation  records
